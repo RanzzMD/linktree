@@ -1,12 +1,12 @@
 :root {
   --bg-color: #000000;
-  --text-color: #2f8d0a;
+  --text-color: #ffffff;
   --link-bg: #000000;
   --link-hover: #000000;
-  --link-shadow: rgba(134, 124, 124, 0.1);
-  --music-bg: rgba(255, 255, 255, 0.9);
-  --primary-color: #099209;
-  --secondary-color: #0b6b08;
+  --link-shadow: rgba(65, 50, 50, 0.1);
+  --music-bg: rgba(0, 0, 0, 0.9);
+  --primary-color: #087508;
+  --secondary-color: #06a829;
   --transition-speed: 0.4s;
 }
 
@@ -208,7 +208,7 @@ body {
   top: -35px;
   right: 10px;
   background-color: var(--primary-color);
-  color: white;
+  color: rgb(150, 142, 142);
   border: none;
   border-radius: 50%;
   width: 35px;
@@ -406,7 +406,7 @@ body {
 }
 
 .welcome-content {
-  background-color: white;
+  background-color: rgb(71, 68, 68);
   border-radius: 20px;
   padding: 40px;
   text-align: center;
